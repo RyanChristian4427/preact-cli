@@ -52,7 +52,7 @@
 		"lint-staged": "^10.5.0",
 		"mkdirp": "^1.0.3",
 		"ncp": "^2.0.0",
-		"node-sass": "^4.12.0",
+		"node-sass": "^5.0.0",
 		"p-retry": "^4.1.0",
 		"polka": "^0.5.2",
 		"preact": "^10.0.0",
